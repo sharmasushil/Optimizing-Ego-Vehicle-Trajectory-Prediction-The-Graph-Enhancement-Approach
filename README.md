@@ -17,3 +17,6 @@ Semantic segmentation derives bounding box coordinates and mask details from a B
 
 <img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/140fda00-482d-448f-bc57-663990356165" width = "650">
 
+## CARLA Results Visualization 📈
+
+
