@@ -8,11 +8,11 @@ Abstract:Predicting the trajectory of an ego vehicle is a critical component of 
 
 # Our Overview 📑
 
-<img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/ad96c3e6-42d0-4553-8aea-fbcfac442e37" width ="850">
+<img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/ad96c3e6-42d0-4553-8aea-fbcfac442e37" width ="650">
 
 
 # Our proposed architecture ⛓️
 Semantic segmentation derives bounding box coordinates and mask details from a BEV, this information is then utilized by a DNN to inform a KNN, which establishes connections between the boxes to create a graph. A GNN, enhanced with positional encoding, captures spatial features, while LSTM layers integrate temporal dynamics for the prediction of the ego vehicle’s trajectory.
 
-<img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/140fda00-482d-448f-bc57-663990356165" width = "850">
+<img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/140fda00-482d-448f-bc57-663990356165" width = "650">
 
