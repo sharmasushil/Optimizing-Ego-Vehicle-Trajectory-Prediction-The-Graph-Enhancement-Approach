@@ -34,7 +34,7 @@ If you use this dataset in your research or work, we kindly request that you cit
       title={Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement Approach}, 
       author={Sushil Sharma, Aryan Singh, Ganesh Sistu, Mark Halton, Ciarán Eising},
       year={2024},
-      booktitle={Electronic Imaging,  2024,  pp 115-1 - 115-6,  https://doi.org/10.2352/EI.2024.36.17.AVM-115, San Francisco, California, USA}
+      booktitle={Electronic Imaging,2024,pp 115-1 - 115-6,https://doi.org/10.2352/EI.2024.36.17.AVM-115, San Francisco, California, USA}
 }
 ```
 
