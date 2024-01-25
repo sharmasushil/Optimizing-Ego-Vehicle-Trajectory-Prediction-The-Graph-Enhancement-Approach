@@ -8,6 +8,7 @@ Abstract:Predicting the trajectory of an ego vehicle is a critical component of 
 
 ## Our Overview 📑
 Our Overview: Segment anything model extracts bounding box info. GNN processes the graph for spatial feature relations, predicting ego vehicle trajectory with LSTM layers.
+
 <img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/ad96c3e6-42d0-4553-8aea-fbcfac442e37" width ="650">
 
 
